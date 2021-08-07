@@ -19,7 +19,7 @@
 /* Change the color of links on hover */
 
 .topnav a:hover {
-    background-color: #ddd;
+    background-color: palevioletred;
     color: black;
 }
 
@@ -28,5 +28,5 @@
 
 .topnav a.active {
     background-color: #04AA6D;
-    color: white;
+    color: wheat;
 }
